@@ -52,7 +52,10 @@ Indexe en esa página principal cualquier resultado adicional que desee mostrar 
 
 El servidor web que aloja estas páginas ha de seguir funcionando después de cerrar la sesión en la máquina
 IaaS-ULL que aloja el servidor para posibilitar la evaluación del trabajo realizado.
-### Se denomina 
+
+### Tiro parabólico
+
+Se denomina 
 [movimiento parabólico](https://www.ck12.org/c/physics/projectile-motion-for-an-object-launched-at-an-angle/lesson/Projectile-Motion-for-an-Object-Launched-at-an-Angle-PHYS/)
 al realizado por un objeto cuya trayectoria describe una parábola. 
 Se corresponde con la trayectoria ideal de un proyectil que se mueve en un medio que no ofrece 
