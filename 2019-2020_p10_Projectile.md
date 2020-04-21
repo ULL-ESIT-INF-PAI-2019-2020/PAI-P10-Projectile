@@ -34,7 +34,7 @@ mantenga acotada.
 Edite el fichero `README.md` del directorio principal de su proyecto
 e incluya en ese fichero, en primer lugar, la URL de la página `index.html` de este proyecto,
 alojada en su la máquina IaaS de la asignatura.
-En esa página índice ha de enlazar (se indica el texto de cada uno de los enlaces)::
+En esa página índice ha de enlazar (se indica el texto de cada uno de los enlaces):
 
 * Ejecución de la aplicación (enlace `Projectile`)
 * Documentación de la aplicación (enlace `Projectile - Documentación`)
