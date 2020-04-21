@@ -66,7 +66,7 @@ hay información adicional sobre las leyes que rigen el comportamiento del tiro 
 En esta práctica se propone desarrollar un programa `projectile.js`
 que simulará el lanzamiento de un proyectil disparado desde un punto dado con una velocidad y ángulo
 de disparo iniciales.
-Se tomará [esta imagen]() como referencia de lo que se mostrará en el lienzo de la aplicación
+Se tomará [esta imagen](https://raw.githubusercontent.com/fsande/PAI-P10-Projectile/master/projectile.png) como referencia de lo que se mostrará en el lienzo principal de la aplicación
 a desarrollar.
 
 ### Especificacines de la aplicación de simulación de tiro parabólico
